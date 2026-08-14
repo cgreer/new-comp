@@ -1,0 +1,3 @@
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+alias vim=/opt/homebrew/Cellar/vim/9.1.1350/bin/vim
